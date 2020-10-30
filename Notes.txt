@@ -11,3 +11,4 @@ git log --author="name"
 git log --since="mm/dd/yyyy" (gives log after this date)
 git log --until="mm/dd/yyyy"
 git log --grep "Filename"
+git log --help
