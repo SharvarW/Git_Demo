@@ -18,3 +18,4 @@ git diff
 git checkout -- filename.ext
 git revert filename.txt
 git reset --hard
+git reset --hard Head~2 // rollback recent 2 versions
