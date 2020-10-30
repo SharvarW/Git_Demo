@@ -16,3 +16,5 @@ git log --help
 git rm filename.ext
 git diff
 git checkout -- filename.ext
+git revert filename.txt
+git reset --hard
