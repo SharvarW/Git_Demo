@@ -103,7 +103,25 @@ Changes to be committed:
 
 
 Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
-$
-5465456g5dzg
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
+$ git log
+commit 56855354d7c715ba66e28245239d7caa21654ca2 (HEAD -> master)
+Author: Sharvari <sharvar.987@gmail.com>
+Date:   Fri Oct 30 13:53:39 2020 +0530
+
+    WI2:Git_Commands modified, bash commands added
+
+commit eec3eb0126d5bd4706f2b611c01d6193d327d699
+Author: Sharvari <sharvar.987@gmail.com>
+Date:   Fri Oct 30 13:52:32 2020 +0530
+
+    WI1:Git_Commands created, bash commands added
+
+Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
+
 
 
