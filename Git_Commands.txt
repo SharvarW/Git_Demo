@@ -122,6 +122,33 @@ Date:   Fri Oct 30 13:52:32 2020 +0530
     WI1:Git_Commands created, bash commands added
 
 Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
+$ git add Git_Commands.txt
+
+Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
+$ git commit -m "WI3:Git_Commands modified, commits viewed"
+[master c0b7ca0] WI3:Git_Commands modified, commits viewed
+ 1 file changed, 20 insertions(+), 2 deletions(-)
+
+Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
+$ git log
+commit c0b7ca09e4fc3bebdc3ba03866e674e5d4e7f32d (HEAD -> master)
+Author: Sharvari <sharvar.987@gmail.com>
+Date:   Fri Oct 30 13:56:15 2020 +0530
+
+    WI3:Git_Commands modified, commits viewed
+
+commit 56855354d7c715ba66e28245239d7caa21654ca2
+Author: Sharvari <sharvar.987@gmail.com>
+Date:   Fri Oct 30 13:53:39 2020 +0530
+
+    WI2:Git_Commands modified, bash commands added
+
+commit eec3eb0126d5bd4706f2b611c01d6193d327d699
+Author: Sharvari <sharvar.987@gmail.com>
+Date:   Fri Oct 30 13:52:32 2020 +0530
+
+    WI1:Git_Commands created, bash commands added
+
 
 
 
