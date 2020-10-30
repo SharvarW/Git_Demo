@@ -15,3 +15,4 @@ git log --help
 .gitignore file - list all the extensions you want git to ignore 
 git rm filename.ext
 git diff
+git checkout -- filename.ext
