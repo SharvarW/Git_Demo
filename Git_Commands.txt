@@ -148,6 +148,35 @@ Author: Sharvari <sharvar.987@gmail.com>
 Date:   Fri Oct 30 13:52:32 2020 +0530
 
     WI1:Git_Commands created, bash commands added
+Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
+$ git log --oneline
+14c6b35 (HEAD -> master) file3 : removed file tobedeleted
+2ce2e85 to be deleted added
+ce89d1b gitignore created to skip executabl files
+8c662f4 Version 2 New notes added
+b011a59 WI4 Updates
+6838df3 Version 1 Notes created
+c0b7ca0 WI3:Git_Commands modified, commits viewed
+5685535 WI2:Git_Commands modified, bash commands added
+eec3eb0 WI1:Git_Commands created, bash commands added
+
+Sharvari@DESKTOP-TH181AK MINGW64 /e/PAWS/AWS/Git_Demo (master)
+$ git diff
+diff --git a/Notes.txt b/Notes.txt
+index e997c3b..cef4a64 100644
+--- a/Notes.txt
++++ b/Notes.txt
+@@ -12,5 +12,6 @@ git log --since="mm/dd/yyyy" (gives log after this date)
+ git log --until="mm/dd/yyyy"
+ git log --grep "Filename"
+ git log --help
+-.gitignore file - list all the extensions you want git to ignore
+-
+\ No newline at end of file
++.gitignore file - list all the extensions you want git to ignore
++git rm filename.ext
++git diff
+\ No newline at end of file
 
 
 
