@@ -23,3 +23,5 @@ git reset --hard Head~2 // rollback recent 2 versions
 
 Change bug1 1 
 Change bug1 2
+
+change for bug2 3
