@@ -2,4 +2,4 @@ Master - change 1 Welcome to sample.txt
 new chnage 2 in master
 third line added in master
 
-B1 branch - change 1 Welcome from b1 mode
+B1 branch - CHANGE1 Welcome from b1 mode
