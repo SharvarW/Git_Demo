@@ -1,3 +1,4 @@
 Master - change 1 Welcome to sample.txt
+new chnage 2 in master
 
 B1 branch - change 1 Welcome from b1 mode
