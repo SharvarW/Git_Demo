@@ -1,3 +1,2 @@
-Master - change 1 Welcome to sample.txt
-new chnage 2 in master
-third line added in master
+Changes from Remote Repository!!!!!!!!!!
+Nice
