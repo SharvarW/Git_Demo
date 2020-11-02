@@ -21,7 +21,5 @@ git revert filename.txt
 git reset --hard
 git reset --hard Head~2 // rollback recent 2 versions
 
-Change bug1 1 
-Change bug1 2
-
+change for bug22222222222222222222
 change for bug2 3
